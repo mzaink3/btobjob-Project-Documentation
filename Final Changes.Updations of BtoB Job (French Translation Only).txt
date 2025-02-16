@@ -1,0 +1,95 @@
+1.	
+Le post dans le fil d'actualité sur la page d'accueil, le profil ou la demande doit avoir des boutons J'aime, Commenter et Partager.
+
+2.	
+Il devrait y avoir une section où les documents téléchargés resteront, et non dans la section de vérification d'identité.
+
+3.	
+Les informations ne changent pas même après les avoir modifiées dans « Informations personnelles ».
+
+4.	
+Changer le titre « état » en « pays » ici :
+
+5.	
+La recherche par proximité et localisation doit être sur les pages : offres, emploi, services (page d'accueil), location, immobilier et véhicules commerciaux, comme les boutons ci-dessous (doodle) :
+
+6.	
+Le menu déroulant du profil doit se fermer automatiquement après avoir cliqué n'importe où sur la page ou le site, et corriger le problème d'alignement.
+
+7.	
+Dans Explorer, pour les emplois de stage, il y a des catégories affichées (2 emplois), mais après avoir cliqué sur stage, les stages spécifiques ne s'affichent pas (2 emplois).
+
+8.	
+Changer le nom du bouton "Ajouter un service" en "Ajouter un article à louer/vendre".
+
+9.	
+Il doit y avoir une recherche par proximité/localisation sur cette page, et retirer les boutons/titres supplémentaires sauf la demande publique. Sur cette page, seules les demandes (publiques) et les publications des personnes proches seront affichées.
+
+10.	
+Lors du téléchargement d'un service/article à louer/vendre, il devrait y avoir des options pour les classer en tant que vente/location d'équipement, et les classer par titres : vente/location d'équipement, vente/location de véhicule commercial, vente/location d'immobilier.
+
+11.	
+Le prix doit être affiché en « Euro ».
+
+12.	
+Il doit être indiqué dans les chats (messages) si la personne est un professionnel ou un particulier.
+
+13.	
+Nous pouvons définir nous-mêmes les tarifs à l'heure ou à la journée, et les autres peuvent les voir.
+
+14.	
+Quand nous recevons un message, nous ne recevons pas de notification, ou aucune notification quand on fait quelque chose.
+
+15.	
+Dans l'onglet « Messages », les images s'ouvrent et se téléchargent, mais pas les fichiers/documents.
+
+16.	
+Le menu déroulant du bouton de profil et le bouton de partage ne doivent partager que « Site Web : B to B Job ».
+
+17.	
+Nous pouvons aussi partager des emplois... bouton partager.
+
+18.	
+Nous devrions pouvoir voir nos demandes et les supprimer ou les modifier en tant qu'individu.
+
+19.	
+Un particulier ne devrait pas avoir de carte de visite, supprimez-la.
+
+20.	
+Les photos de profil ne s'affichent pas (erreur dans le fil et la page de visualisation des photos).
+
+21.	
+Inclure plus d'instructions comme ci-dessus et dans le VN.
+
+22.	
+Après vérification, un « Ruban Bleu » doit apparaître sur le profil pour indiquer que le professionnel est vérifié.
+
+23.	
+
+24.	
+Le numéro de téléphone et l'adresse ne s'affichent pas sur le profil.
+
+25.	
+Il devrait y avoir des Conditions générales, une Politique de cookies et une Politique de confidentialité fonctionnelles sur la page d'inscription et dans le pied de page.
+
+26.	
+Si quelqu'un sélectionne une offre ou un article à louer/vendre et contacte le propriétaire, le post doit être étiqueté dans les messages.
+
+27.	
+Changer le bouton « Payer pour postuler » et appliquer l'intégration correctement, et s'assurer que les demandes privées sont visibles seulement dans les messages et pas sur la page d'accueil.
+
+28.	
+Il devrait y avoir un champ pour entrer une description dans la page « Informations personnelles » du profil.
+
+29.	
+Distribuer la page selon les titres : une rubrique pour la Location d'équipement, une autre pour le Véhicule commercial, et une autre pour l'Immobilier. Afficher la page en fonction de ces titres avec une mention si c'est une VENTE ou une LOCATION.
+
+30.	
+Traduire ce qui suit car ce n'est pas traduit en français.
+
+31.	
+Texte mal aligné, correction nécessaire.
+
+32.	
+Les photos sur la page de visualisation du profil ne sont pas correctement synchronisées, affichent parfois mes propres photos de profil, ou ne se chargent même pas.
+
