@@ -15,6 +15,6 @@ Charme is a **modern barbershop website** designed to provide online booking, se
 Documentation:
 - [Software Requirements Specification (SRS)](./SRS_Charme.pdf)
 - [Design Document](./Design_Document_Charme.pdf)
-- [Change Log](./Changes_Log_Charme.pdf)
+- [Change Log](After Testing)(./Changes_Log_Charme.pdf)
 
 ---
