@@ -15,7 +15,7 @@ BtoB Job is a **service-based platform** that allows users to hire professionals
 Documentation:
 - [Software Requirements Specification (SRS)](./SRS_BtoB_Job.pdf)
 - [Design Document](./Design_Document_BtoB_Job.pdf)
-- [Change Log](./Changes_Log_BtoB_Job.pdf)
+- [Change Log - After Testing](./Changes_Log_BtoB_Job.pdf)
 
 Video Creation:
 - [BtoB Job Video](../Project_Videos/BtoB_Job_Video.mp4)
