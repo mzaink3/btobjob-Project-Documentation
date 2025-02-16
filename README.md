@@ -5,6 +5,8 @@ BtoB Job - Service Hiring Website
 
  Website: [btobjob.com](https://btobjob.com)
 
+ Explainer Video: [go to video](https://drive.google.com/drive/folders/1U-IguIat1DvDODl5JFHCATOg79BY2d8-)
+ 
  Figma (Mock-up) Design: [BtoB Figma Design (view on figma)](https://www.figma.com/design/1dv9BDqox9nw9PSLNUn2gq/B-TO-B-JOB-Website-Design?node-id=169-8607&t=lJhHQwS4Lzgbnmd9-0)
  
 Overview:
